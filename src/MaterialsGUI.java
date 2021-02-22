@@ -11,16 +11,6 @@ import java.util.ArrayList;
 import javax.swing.*;
 import javax.swing.table.DefaultTableCellRenderer;
 
-/*
- * Author: Saenthan Parimalakanthan
- * Edited by: Malcolm Shi
- * Teacher:  Mr. Fernandes
- * Course: ICS4U1
- * Date: 12/15/2019
- * Purpose: Displays project related information, the user materials panel which contain all the materials in a current project
- *  and as well a the materials inventory panel which contains all the possible materials
- */
-
 public class MaterialsGUI extends JFrame implements ActionListener, MouseListener {
 
 	private ArrayList<JButton> materialImages = new ArrayList<JButton>();
