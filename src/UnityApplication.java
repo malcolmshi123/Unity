@@ -19,8 +19,7 @@ import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 /* Malcolm, Saenthan, Richard, Steven
- * December 16, 2019
- * ICS4U1
+ * June 16, 2020
  * 
  * The Unity Application is a program that allows aspiring artists to organize a variety of materials to create projects,
  * while also being aware of the impact each material has on the environment.
