@@ -45,7 +45,6 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
  * Areas of concern:
  * - Lack of error checking throughout program
  * - Environmental input screen incomplete
- * - Uneven work distribution between group members: Steven, Richard
  */
 
 // runs the main method of Unity project and splash screen components
@@ -78,7 +77,6 @@ public class UnityApplication extends JFrame implements ActionListener {
 		 * If user clicks on create button, checks if project file already exists if it
 		 * does, create a new project and go to material gui, if not create project
 		 * database If user clicks edit projects, read everything from the project file
-		 * 
 		 */
 		
 		File tempFile = new File("Project Database.xlsx");
